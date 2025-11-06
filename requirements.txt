@@ -1,0 +1,9 @@
+torch>=2.0
+numpy>=1.21
+scipy>=1.8
+scikit-learn>=1.0
+pandas>=2.0
+tqdm>=4.65
+bayesian-optimization>=1.4.3   # for BO thresholds
+# Graph libs (choose your env-specific wheels if using PyG)
+torch-geometric>=2.5.0
